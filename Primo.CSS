@@ -1,0 +1,16 @@
+/*ecrire le nom de la balise(=adresse de la portion de texte dans lapage WEB) puis {} dans lesquelles on met
+les consignes concernant la portion de texte concernée sous la forme--> propriété: valeur; */
+h1
+{
+	color: rebeccapurple;
+	font-style: italic;
+	text-shadow: 3px 2px 7px black;
+	b
+	border-width: 5px;
+	border-top-left-radius:15px ;
+}
+p
+{	color: color: #00ff00;
+	font-style: normal;
+	text-decoration-underline;
+}
